@@ -44,14 +44,15 @@ This project analyzes online retail transaction data to uncover sales trends, cu
 
 online-retail-pandas-analysis/
 ├── data/
-│   ├── raw/
-│   └── processed/
+│ ├── raw/
+│ └── processed/
 ├── notebooks/
-│   ├── 01_data_cleaning.ipynb
-│   └── 02_exploratory_analysis.ipynb
+│ ├── 01_data_cleaning.ipynb
+│ └── 02_exploratory_analysis.ipynb
 ├── outputs/
-│   └── figures/
+│ └── figures/
 ├── requirements.txt
+
 
 
 ## How to Run
