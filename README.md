@@ -41,20 +41,15 @@ This project analyzes online retail transaction data to uncover sales trends, cu
 - Revenue is highly concentrated among a small group of customers and products.
 
 ## Project Structure
-
-```text
-online-retail-pandas-analysis/
-├── data/
-│   ├── raw/
-│   └── processed/
-├── notebooks/
-│   ├── 01_data_cleaning.ipynb
-│   └── 02_exploratory_analysis.ipynb
-├── outputs/
-│   └── figures/
-├── requirements.txt
-
-
+- data/
+  - raw/
+  - processed/
+- notebooks/
+  - 01_data_cleaning.ipynb
+  - 02_exploratory_analysis.ipynb
+- outputs/
+  - figures/
+- requirements.txt
 
 
 ## How to Run
